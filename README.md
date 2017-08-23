@@ -23,14 +23,14 @@
 
 ## 效果图
 
-<img src="https://github.com/baishixian/OpenGL-ES-Learning/blob/master/Screenshots/OpenGLSample02.jpg" width="320" height="480" alt="OpenGLSample02"/>
+<img src="https://github.com/baishixian/OpenGL-ES-Learning/blob/master/Screenshots/OpenGLSample02.jpg" width="270" height="480" alt="OpenGLSample02"/>
 
-<img src="https://github.com/baishixian/OpenGL-ES-Learning/blob/master/Screenshots/OpenGLSample03.jpg" width="320" height="480" alt="OpenGLSample03"/>
+<img src="https://github.com/baishixian/OpenGL-ES-Learning/blob/master/Screenshots/OpenGLSample03.jpg" width="270" height="480" alt="OpenGLSample03"/>
 
-<img src="https://github.com/baishixian/OpenGL-ES-Learning/blob/master/Screenshots/OpenGLSample04.gif" width="320" height="480" alt="OpenGLSample04"/>
+<img src="https://github.com/baishixian/OpenGL-ES-Learning/blob/master/Screenshots/OpenGLSample04.gif" width="270" height="480" alt="OpenGLSample04"/>
 
-<img src="https://github.com/baishixian/OpenGL-ES-Learning/blob/master/Screenshots/OpenGLSample04-1.gif" width="320" height="480" alt="OpenGLSample04-1"/>
+<img src="https://github.com/baishixian/OpenGL-ES-Learning/blob/master/Screenshots/OpenGLSample04-1.gif" width="270" height="480" alt="OpenGLSample04-1"/>
 
-<img src="https://github.com/baishixian/OpenGL-ES-Learning/blob/master/Screenshots/OpenGLSample05.gif" width="320" height="480" alt="OpenGLSample05"/>
+<img src="https://github.com/baishixian/OpenGL-ES-Learning/blob/master/Screenshots/OpenGLSample05.gif" width="270" height="480" alt="OpenGLSample05"/>
 
 
